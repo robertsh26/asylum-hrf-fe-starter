@@ -31,6 +31,9 @@ export default function Header() {
         )}
         <LoggingButtons />
       </div>
+      <div>
+        <p>Asylum Office Grant Rate Tracker</p>
+      </div>
     </header>
   );
 }
